@@ -69,7 +69,8 @@ To add images, follow these steps:
 2. **Add your screenshots or GIFs** to `images/`.
 3. **Use this syntax in `README.md`**:
    ```markdown
-   ![Description](images/your_image.png)
+   ![Description](![Uploading Screenshot from 2025-03-19 11-20-59.png…]()
+)
    ```
 
 ---
